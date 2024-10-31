@@ -1,6 +1,8 @@
 # less-noise
 My custom zsh theme, its simple, minimal and has the necessary informations.
 
+![overview](overview.png)
+
 # Installation
 1. Download the theme
 ```shell
